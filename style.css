@@ -62,7 +62,7 @@ header a:hover{
 /*admission*/
 #admission{
 min-height: 400px;
-background:url('../img/mosque.jpg') no-repeat;
+background:url('mosque.jpg') no-repeat;
 background-position: center;
 background-size:cover;
 text-align:center;
